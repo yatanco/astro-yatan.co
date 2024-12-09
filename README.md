@@ -86,10 +86,13 @@ title: "Your Post Title"
 description: "A brief description of your post"
 date: YYYY-MM-DD
 tags: ["tag1", "tag2"]
+image: "cover image URL"
 ---
 
 Your content here...
 ```
+
+Of course, you can customize the metadata as needed in `src/content/config.ts`.
 
 ## Build and Deploy
 

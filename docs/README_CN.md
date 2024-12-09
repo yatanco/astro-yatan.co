@@ -84,10 +84,13 @@ title: "文章标题"
 description: "文章简短描述"
 date: YYYY-MM-DD
 tags: ["标签1", "标签2"]
+image: "封面图片 URL"
 ---
 
 您的内容写在这里...
 ```
+
+当然，你可以根据需要在 `src/content/config.ts` 中自定义元数据。
 
 ## 构建和部署
 
