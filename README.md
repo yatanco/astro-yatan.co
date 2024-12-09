@@ -2,9 +2,11 @@
 
 A minimal, responsive, and SEO-friendly blog template built with Astro. Features clean design, dark mode support, and markdown-based content management.
 
-live demo: [yujian's blog](https://blog.larryxue.dev/)
+live demo: [Yujian's blog](https://blog.larryxue.dev/)
 
 If you find this project helpful, please consider giving it a star ⭐️.
+
+[中文Readme](./docs/README_CN.md)
 
 ## Features
 
