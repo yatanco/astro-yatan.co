@@ -48,9 +48,9 @@ If you find this project helpful, please consider giving it a star ⭐️.
 ```typescript
 export const siteConfig: SiteConfig = {
   site: "https://example.com/", // your site URL
-  title: "Your's blog",
+  title: "Your Blog",
   slogan: "Exploring the World and Me",
-  description: "write a description here",
+  description: "Write a description here",
   social: {
     github: "https://github.com/username",
     linkedin: "https://www.linkedin.com/in/username",
@@ -67,7 +67,7 @@ export const siteConfig: SiteConfig = {
 
 ### HomePage Posts Filter
 
-If you wan more customization in homepage posts. You can customize the posts displayed by writing a custom filter with updating the `filterPublishedPosts` function in `src/utils/posts.ts`.:
+If you want more customization in homepage posts. You can customize the posts displayed by writing a custom filter with updating the `filterPublishedPosts` function in `src/utils/posts.ts`.:
 
 ### Theme
 
@@ -99,7 +99,7 @@ Your content here...
 
 2. Deploy options:
 
-   - **Cloudflare Pages**: [Deploy to Cloudflare Pages](hhttps://developers.cloudflare.com/pages/framework-guides/deploy-an-astro-site/#deploy-with-cloudflare-pages)
+   - **Cloudflare Pages**: [Deploy to Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/deploy-an-astro-site/#deploy-with-cloudflare-pages)
 
 ## Project Structure
 
