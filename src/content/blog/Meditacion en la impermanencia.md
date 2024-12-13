@@ -7,7 +7,7 @@ tags: ["meditation"]
 
 ---
 V. Sangye Khadro
-[Escucha Meditación en la impermanencia](../audio/meditacionenlaimpermanencia.mp3)
+[Escucha Meditación en la impermanencia](https://www.yatan.co/audio/meditacionenlaimpermanencia.mp3)
 
 
 Buda afirmó que todas las cosas producidas son impermanentes, es decir, que cambian
