@@ -1,0 +1,42 @@
+---
+/* This is your Astro page or component. You can name this file as index.astro or any other page. */
+---
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MP3 Audio Player in Astro</title>
+    <!-- You can add custom styles here -->
+  </head>
+  <body>
+    <h1>Play an MP3 File in Astro</h1>
+
+    <!-- HTML Audio Player -->
+    <audio controls>
+      <source src="/audio/meditacionenlainevabilidad.mp3" type="audio/mp3" />
+      Your browser does not support the audio element.
+    </audio>
+
+    <!-- Optional: Add some styling to center the player -->
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        background-color: #f4f4f9;
+        text-align: center;
+      }
+      h1 {
+        color: #333;
+        margin-bottom: 20px;
+      }
+      audio {
+        margin-top: 20px;
+      }
+    </style>
+  </body>
+</html>
