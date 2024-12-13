@@ -3,6 +3,8 @@ title: "Writing Effective Technical Documentation"
 description: "Learn best practices for creating clear and useful technical documentation."
 date: 2024-03-22
 tags: ["documentation", "technical-writing", "best-practices"]
+draft: false
+
 ---
 
 # Writing Effective Technical Documentation

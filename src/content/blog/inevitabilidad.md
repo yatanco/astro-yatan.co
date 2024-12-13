@@ -3,6 +3,8 @@ title: "Meditación en la inevitabilidad de la muerte"
 description: "something"
 date: 2024-03-21
 tags: ["meditation"]
+draft: false
+
 ---
 
 [Escucha Meditación en inevitabilidad de la muerte](https://www.yatan.co/audio/inevatibilidad.mp3)

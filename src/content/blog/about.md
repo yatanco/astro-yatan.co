@@ -3,6 +3,8 @@ title: "About Me"
 description: "A little bit about Yatan"
 date: 2024-03-21
 tags: ["welcome", "first-post"]
+draft: false
+
 ---
 
 ## Hello, I am Yatan
