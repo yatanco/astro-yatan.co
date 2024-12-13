@@ -5,7 +5,7 @@ date: 2024-03-21
 tags: ["meditation"]
 ---
 
-[Escucha Meditación en inevitabilidad de la muerte](../../audio/inevatibilidad.mp3)
+[Escucha Meditación en inevitabilidad de la muerte](https://www.yatan.co/audio/inevatibilidad.mp3)
 
 
 
