@@ -1,14 +1,20 @@
 ---
 title: "Meditación en la inevitabilidad de la muerte"
-description: "something"
+description: ""
 date: 2024-03-21
-tags: ["meditation"]
+tags: ["meditation","meditacion"]
 draft: false
 
 ---
 
-[Escucha Meditación en inevitabilidad de la muerte](https://www.yatan.co/audio/inevatibilidad.mp3)
+Escucha meditacion aca: 
+<audio controls>
+  <source src="https://www.yatan.co/audio/inevatibilidad.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+o aca:
 
+[Escucha Meditación en inevitabilidad de la muerte](https://www.yatan.co/audio/inevatibilidad.mp3)
 
 
 Esta es una meditación en la llamada primera raíz, punto principal de la meditación sobre la muerte en nueve puntos. A saber: la muerte es inevitable e ineludible. Los otros

@@ -8,6 +8,13 @@ draft: false
 
 ---
 V. Sangye Khadro
+
+Escucha meditacion aca: 
+<audio controls>
+  <source src="https://www.yatan.co/audio/meditacionenlaimpermanencia.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 [Escucha Meditación en la impermanencia](https://www.yatan.co/audio/meditacionenlaimpermanencia.mp3)
 
 

@@ -18,7 +18,7 @@ export const siteConfig: SiteConfig = {
   site: "https://www,yatan.co", // your site url
   title: "Yatan Blumenthals Blog",
   slogan: "Culture Design, Alzheimers, Mindful Leadership",
-  description: "write a description here",
+  description: "Hello! I am Yatan, I support startups through Founder Institute and Hardware.co. Work for better team culture and communication through Culture Design & Search Inside Yourself. And work in furthering Brain Health and finding a cure for Alzheimer’s through CerebrumDAO.",
   social: {
     github: "https://github.com/yatanco", // leave empty if you don't want to show the github
     linkedin: "https://www.linkedin.com/in/yatanblumenthal", // leave empty if you don't want to show the linkedin
