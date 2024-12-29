@@ -1,11 +1,15 @@
 ---
-title: "Conscious Leadership Check-in"
-description:
-date: 2022-04-01T22:45:26-05:00
-tags: ["teams"]
+title: Conscious Leadership Checkin
+description: "The unarguable checkin. "
+date: 2024-03-21
+tags:
+  - checkin
+  - teams
 draft: false
-
+slug: checkin
 ---
+
+
 Every person has their own perspective which can very often be arguable.
 Your own experience is personal to each and thus unarguable, nobody can tell you what
 you sense, feel or think. Which is why we love this checkin so much inspired by the 
