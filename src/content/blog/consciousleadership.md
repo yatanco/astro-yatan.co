@@ -6,7 +6,6 @@ tags:
   - checkin
   - teams
 draft: false
-slug: checkin
 ---
 
 
