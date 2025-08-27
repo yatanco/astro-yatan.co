@@ -3,7 +3,12 @@
   "frontMatter.framework.id": "astro",
   "frontMatter.preview.host": "http://localhost:4321",
   "frontMatter.content.publicFolder": "public",
-  "frontMatter.content.pageFolders": [],
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "yatan.co - content",
+      "path": "[[workspace]]/astro-yatan.co/src/content"
+    }
+  ],
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
