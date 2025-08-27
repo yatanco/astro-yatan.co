@@ -5,7 +5,8 @@ pubDate: 2025-08-27
 tags: ["family", "facilitation", "blended-family", "workshops"]
 ---
 
-# A Family – Isn’t It Just a Team with Different Types of Roles?
+# What if your family was more like a team, with roles and rituals to keep it running smoothly?”
+
 
 Shifting from being a lone ranger roaming through the world to becoming a stepdad and dad—while living with my partner, two teenage girls, a baby, and my 76-year-old mom—has been one of the biggest blessings of my life.  
 But I would be lying if I said I didn’t find it daunting at the beginning.  
