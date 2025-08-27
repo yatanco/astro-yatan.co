@@ -1,7 +1,7 @@
 ---
 title: "A Family – Just Another Kind of Team"
 description: "How I applied team facilitation methods like Stinky Fish to help our blended family start strong together."
-pubDate: 2025-08-27
+date: 2025-08-27
 tags: ["family", "facilitation", "blended-family", "workshops"]
 ---
 
